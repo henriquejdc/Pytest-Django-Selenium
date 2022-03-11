@@ -4,6 +4,13 @@ Pytest & Django
 AND
 Pytest & Django with Selenium
 
+Utilizado:
+- Windows 10
+- Pytest 6.2.3
+- Django 3.2
+- Python 3.9
+- Selenium 3.141.0
+
 Implementado:
 
 Pytest & Django
