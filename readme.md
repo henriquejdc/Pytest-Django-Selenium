@@ -37,3 +37,6 @@ Execução:
 - pytest tests # Test a folder
 - pytest test/test_ex1.py::test_example # Test one test def
 - pytest -m "slow" # Test slow
+
+Seguido o tutorial abaixo:
+https://www.youtube.com/watch?v=LYX6nlECcro&list=PLOLrQ9Pn6caw3ilqDR8_qezp76QuEOlHY&index=1&ab_channel=VeryAcademy
